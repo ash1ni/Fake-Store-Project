@@ -97,9 +97,13 @@ npm start
 
 ![Home Page](/images/home.jpg)
 
-### Product Details
+### Product Details with Edit and Delete Product
 
-![Product Details](/images/product-details.jpg)
+![Details](/images/edit-and-delete.jpg)
+
+### Edit Product
+
+![Edit Products](/images/edit-form.jpg)
 
 ### Cart Details
 
