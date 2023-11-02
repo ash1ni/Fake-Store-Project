@@ -74,7 +74,7 @@ The application offers a user-friendly interface where users can view, add, edit
 2. **Navigate to the project directory**:
 
     ```bash
-    cd ecommerce-app
+    cd Fake-Store-Project
     ```
 
 3. **Install dependencies**:
