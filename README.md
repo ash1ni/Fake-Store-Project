@@ -111,7 +111,7 @@ npm start
 
 ### Add a Product
 
-![Add a Product](/images/addproduct.jpg)
+![Add a Product](/images/add-product.jpg)
 
 ## NOTE
 
